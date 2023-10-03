@@ -65,5 +65,3 @@ ___
 **Share data between processes**:
 - Processes do not share same memory
 
-**Process pool**:
- - 
